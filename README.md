@@ -10,3 +10,10 @@ dynamic web project for creating my own framework
 * This time, it's only available for oracle/postgresql database
 * We use annotations for the reflection
 * The process is to divide it into 2 parts: a +test project and the +framework project
+
+## Technology
+* SGBD
+  - Oracle
+  - postgresql
+* language: java
+* IDE: eclipse
